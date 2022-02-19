@@ -1,0 +1,18 @@
+#header{
+    background-color:ffb5a7;
+    color: white;
+}
+#main{
+    background-color:fcd5ce;
+    color: white;
+}
+.copy_right_footer{
+    background-color:f8edeb;
+    color: black;
+    text-align: center;
+    position:fixed;
+    bottom:0;
+    font-size: 18px;
+    width:100%;
+    line-height:3;
+}

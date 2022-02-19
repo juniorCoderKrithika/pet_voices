@@ -1,0 +1,1 @@
+//https://teachablemachine.withgoogle.com/models/nn_JL-7pl/
